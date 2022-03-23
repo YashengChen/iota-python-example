@@ -30,7 +30,7 @@ IOTA - python
 ## 透過Python iota client 套件將資訊上鏈
 ### 安裝
 
-1. 依自己Pyhton版本, 下載官方 [python-client](https://nightly.link/iotaledger/iota.rs/workflows/python_binding_publish/dev) 套件.zip檔案，並解壓縮至您的project 資料夾
+1. 依自己Python版本, 下載官方 [python-client](https://nightly.link/iotaledger/iota.rs/workflows/python_binding_publish/dev) 套件.zip檔案，並解壓縮至您的project 資料夾
 2. 進入您需要安裝套件的python 環境
     - `cd ./Document/project/iota_test`
     - `source ./venv/bin/activite`
